@@ -1,0 +1,17 @@
+Write a program to generate usernames from a given name. 
+
+input will be name with maximun 5 lenght
+output should be sorted and unique and only letters of username given as input.
+
+Case 1 :
+input a 
+output a
+
+Case 2
+input ab
+output ab ba
+
+case 3
+
+input bab
+output aab aba abb baa bab bba 
