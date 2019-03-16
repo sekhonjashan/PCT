@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+/*
+Sample input: 0111001
+Output: 0(1,3)(0,2)1
+
+*/
+
 public class A1 {
 
 	public static void main(String[] args) {
